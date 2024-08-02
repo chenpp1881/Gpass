@@ -61,5 +61,5 @@ Now, you can evaluate a model you trained on the test set. For example, the Tok 
 This command runs the model for the entire specified test set. You can specify file names, proof names, project/file indices, etc.
 
 ## 6. implementation
-To run Gpass all related parameters and training resultes please download: 
+To run Gpass all related components please download: 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13170807.svg)](https://doi.org/10.5281/zenodo.13170807)
