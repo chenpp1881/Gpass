@@ -59,7 +59,3 @@ Model checkpoints will be saved in `Gpass/runs/tok/checkpoints/`. See `options.p
 Now, you can evaluate a model you trained on the test set. For example, the Tok model that you trained can be run with `python evaluate.py ours tok-results --path /path/to/tok_model/*.pth`. If you used additional options in training, specify those same options for evaluating.
 
 This command runs the model for the entire specified test set. You can specify file names, proof names, project/file indices, etc.
-
-## 6. implementation
-To run Gpass all related components please download: 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13170807.svg)](https://doi.org/10.5281/zenodo.13170807)
